@@ -24,6 +24,8 @@ A comprehensive movie recommendation system that combines **Content-Based Filter
 - **Auto-complete Search**: Smart movie title suggestions
 - **Responsive Web Interface**: Modern UI with AJAX-powered interactions
 
+https://github.com/user-attachments/assets/b27874f9-028e-4ff9-94ee-a1c5df1043dd
+
 ### Objectives Achieved
 ✅ Movie recommendations based on title input  
 ✅ Genre and year-based filtering  

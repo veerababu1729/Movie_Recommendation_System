@@ -9,6 +9,17 @@ Movie Recommendation System created using Collaborative Filtering (Website) and 
   4. The system should apply sentiment analysis to categorize user comments on a particular movie.
   5. Additional Content Based Filtering is performed (can be seen [here](Recommovie_9604_Notebook.ipynb)) using Neural Network to perform Matrix Factorization.
 
+
+## Tech Stack
+
+- Python 3.x
+- Flask
+- Scikit-learn
+- NumPy & Pandas
+- BeautifulSoup4
+- AJAX
+- HTML/CSS/JavaScript
+
 ### Dataset can be accessed from [here](https://grouplens.org/datasets/movielens/). 
   For redcuing the deployment time, data exploration followed by feature selection is done on the complete dataset.
 

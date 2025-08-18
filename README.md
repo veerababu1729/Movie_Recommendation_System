@@ -172,7 +172,7 @@ X_pred = np.dot(np.dot(u, s_diag_matrix), vt)
 ## 🔄 Data Processing Pipeline
 
 ### 1. Data Sources
-- **Primary Dataset**: MovieLens (6,012 movies, 1M+ ratings)
+- **Primary Dataset**: main_data.csv (6,012 movies, 1M+ ratings)
 - **External APIs**: TMDB for movie metadata
 - **Web Scraping**: IMDB for user reviews
 

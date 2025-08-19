@@ -43,14 +43,17 @@ https://github.com/user-attachments/assets/b27874f9-028e-4ff9-94ee-a1c5df1043dd
 Backend
 Python 3.13 + Flask 3.0.0 (Web Framework)
 Scikit-learn 1.7.1 (ML: TF-IDF, Cosine Similarity, Naive Bayes)
+Pandas
 NumPy 2.3.2 + Pandas 2.3.1 (Data Processing)
 BeautifulSoup4 4.12.2 + LXML 6.0.0 (Web Scraping)
 Pickle (Model Serialization)
+
 Frontend
 HTML5/CSS3 + JavaScript ES6+
 Bootstrap 4.x (Responsive UI)
 jQuery 3.x (AJAX, DOM Manipulation)
 AutoComplete.js 7.2.0 (Smart Search)
+
 Data & APIs
 MovieLens Dataset (Primary Data)
 TMDB API (Movie Metadata)
